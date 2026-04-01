@@ -21,6 +21,7 @@ Telecom customer dataset containing:
 ---
 
 ## 🔍 Key Insights
+- Overall churn rate is **~26.5%**, indicating a significant customer retention issue.
 - Customers on **Month-to-Month contracts** have the highest churn rate.
 - **New customers (0–6 months)** are more likely to churn.
 - Customers with **higher monthly charges** show higher churn behavior.
@@ -46,15 +47,9 @@ Telecom customer dataset containing:
 ---
 
 ## 📸 Dashboard Preview
-<img width="1390" height="732" alt="image" src="https://github.com/user-attachments/assets/ace98254-16de-4137-9b3f-4d338646edf3" />
+<img width="1383" height="730" alt="image" src="https://github.com/user-attachments/assets/8531681f-09c5-4e08-a144-8634973d9988" />
 
 
 ---
 
 ## 📂 Project Structure
-
-
----
-
-## 🚀 Conclusion
-This project demonstrates how data analysis can be used to uncover customer behavior patterns and support business decisions to reduce churn.
