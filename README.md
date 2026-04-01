@@ -52,3 +52,9 @@ Telecom customer dataset containing:
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 🚀 Conclusion
+This project demonstrates how data analysis can be used to uncover customer behavior patterns and support business decisions to reduce churn.
